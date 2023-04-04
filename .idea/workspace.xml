@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added code to connect to the database">
+    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added a try catch with data to be inserted in the database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" afterDir="false" />
     </list>
@@ -44,6 +44,26 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atu.ie.Insert" />
+      <module name="JDBC_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atu.ie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Insert" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680641847260</updated>
-      <workItem from="1680641849928" duration="2767000" />
+      <workItem from="1680641849928" duration="4082000" />
     </task>
     <task id="LOCAL-00001" summary="Created new project for JDBC">
       <created>1680642083215</created>
@@ -82,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680643706842</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added a try catch with data to be inserted in the database">
+      <created>1680644842168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680644842168</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +131,7 @@
     <MESSAGE value="Created new branch and class Insert" />
     <MESSAGE value="Added dependencies to the pom file" />
     <MESSAGE value="Added code to connect to the database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to connect to the database" />
+    <MESSAGE value="Added a try catch with data to be inserted in the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a try catch with data to be inserted in the database" />
   </component>
 </project>
