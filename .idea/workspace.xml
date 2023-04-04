@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added dependencies to the pom file">
+    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added code to connect to the database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" afterDir="false" />
     </list>
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680641847260</updated>
-      <workItem from="1680641849928" duration="1841000" />
+      <workItem from="1680641849928" duration="2767000" />
     </task>
     <task id="LOCAL-00001" summary="Created new project for JDBC">
       <created>1680642083215</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680643073239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added code to connect to the database">
+      <created>1680643706842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680643706842</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
     <MESSAGE value="Created new project for JDBC" />
     <MESSAGE value="Created new branch and class Insert" />
     <MESSAGE value="Added dependencies to the pom file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added dependencies to the pom file" />
+    <MESSAGE value="Added code to connect to the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to connect to the database" />
   </component>
 </project>
