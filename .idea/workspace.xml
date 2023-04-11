@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Changed username again" />
+    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added SQL statement">
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/TestConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/TestConnection.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Standard_1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,7 +84,7 @@
       <updated>1680641847260</updated>
       <workItem from="1680641849928" duration="5840000" />
       <workItem from="1680722991997" duration="207000" />
-      <workItem from="1681213471579" duration="1579000" />
+      <workItem from="1681213471579" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="Created new project for JDBC">
       <created>1680642083215</created>
@@ -140,7 +142,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681219719743</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added new branch and class to test the connection to the database">
+      <created>1681220036366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681220036366</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added variables">
+      <created>1681220093656</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681220093656</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added SQL statement">
+      <created>1681220129033</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681220129033</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +189,9 @@
     <MESSAGE value="Updated the database url" />
     <MESSAGE value="Changed the username" />
     <MESSAGE value="Changed username again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed username again" />
+    <MESSAGE value="Added new branch and class to test the connection to the database" />
+    <MESSAGE value="Added variables" />
+    <MESSAGE value="Added SQL statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SQL statement" />
   </component>
 </project>
