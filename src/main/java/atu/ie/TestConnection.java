@@ -6,5 +6,11 @@ public class TestConnection {
         String url = "jdbc:mysql://localhost:3306/orange";
         String username = "root";
         String password = "someSadPassword...883";
+
+        // SQL statement
+        String selectSQL = "SELECT u.username, u.password, e.email " +
+                "FROM users u " +
+                "JOIN emails e ON u.id = e.user_id";
+
     }
 }
