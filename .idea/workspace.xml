@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Added a try catch with data to be inserted in the database">
+    <list default="true" id="4227104e-f86e-4798-8f24-84680ee526bb" name="Changes" comment="Updated the database url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Insert.java" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Standard_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atu.ie.Insert" />
@@ -54,6 +54,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,7 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680641847260</updated>
-      <workItem from="1680641849928" duration="4082000" />
+      <workItem from="1680641849928" duration="5840000" />
+      <workItem from="1680722991997" duration="207000" />
+      <workItem from="1681213471579" duration="1225000" />
     </task>
     <task id="LOCAL-00001" summary="Created new project for JDBC">
       <created>1680642083215</created>
@@ -109,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680644842168</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated the database url">
+      <created>1680646055722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680646055722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +152,7 @@
     <MESSAGE value="Added dependencies to the pom file" />
     <MESSAGE value="Added code to connect to the database" />
     <MESSAGE value="Added a try catch with data to be inserted in the database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a try catch with data to be inserted in the database" />
+    <MESSAGE value="Updated the database url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the database url" />
   </component>
 </project>
